@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Final2021">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Final2021.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
